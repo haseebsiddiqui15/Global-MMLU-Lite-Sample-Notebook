@@ -1,8 +1,4 @@
-Screenshot 2026-11-21 1
-Screenshot 2026-11-21 2
-Screenshot 2026-11-21 3
-Screenshot 2026-11-21 4
-
+CLINT PROJECT DONE
 🌍 Global-MMLU-Lite Sample Notebook
 
 ### A practical multilingual benchmark workflow for evaluating Large Language Models with Google Gemini
