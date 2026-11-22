@@ -120,15 +120,6 @@ Run the notebook cells from top to bottom:
 9. Export the results to Excel.
 ## Project Screenshots
 
-### Project Overview
-![Project Overview](images/project-overview.png)
-
-### Notebook Output
-![Notebook Output](images/notebook-output.png)
-
-### Accuracy Results
-![Accuracy Results](images/accuracy-chart.png)
-
 ## 🧪 Evaluation Configuration
 
 The notebook uses the following initial settings:
