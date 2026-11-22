@@ -118,6 +118,16 @@ Run the notebook cells from top to bottom:
 7. Run the English benchmark or the optional multilingual benchmark.
 8. Calculate accuracy.
 9. Export the results to Excel.
+## Project Screenshots
+
+### Project Overview
+![Project Overview](images/project-overview.png)
+
+### Notebook Output
+![Notebook Output](images/notebook-output.png)
+
+### Accuracy Results
+![Accuracy Results](images/accuracy-chart.png)
 
 ## 🧪 Evaluation Configuration
 
